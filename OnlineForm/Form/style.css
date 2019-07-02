@@ -1,0 +1,80 @@
+form{
+    font-family: Arial,sans-serif;
+    color: white;
+
+
+}
+legend{
+    border: 2px solid white;
+    background: linear-gradient(60deg,black,darkred);
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    color:white;
+    font-size: 30px;
+    background-color:white;
+    padding: 10px;
+    box-shadow: white;
+    font-family: "Old English Text MT";
+}
+fieldset{
+    border:2px solid white;
+    padding: 50px;
+    margin: 10px;
+    box-shadow: 0 0 10px black;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: black;
+    background:rgb(0,0,0,0.6);
+}
+.button{
+    border: 2px solid white;
+    background: linear-gradient(60deg,black,darkred);
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    color:white;
+    font-size: 30px;
+    background-color:white;
+    padding: 10px;
+    box-shadow: white;
+    font-family: "Old English Text MT";
+
+
+
+}
+
+input{
+    border-radius: 10px;
+}
+textarea{
+    border-radius: 10px;
+}
+
+h1{
+    font-family:"Old English Text MT" ;
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 30px red;
+
+
+}
+body{
+    background-image: url("wooden2.jpg");
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    /* background:linear-gradient(60deg,darkmagenta,darksalmon,crimson) ;*/
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+
+table{
+    width:100%;
+}
+td{
+    padding:10px;
+}
